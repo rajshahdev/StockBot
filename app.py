@@ -12,8 +12,7 @@ client = Client(ACCOUNT_ID,TWILIO_TOKEN)
 TWILIO_NUMBER = 'whatsapp:+14155238886'
 
 
-# TWILIO_ACCOUNT=ACb1aff114e44dc432f3dc0a2689d8772d
-# TWILIO_TOKEN=0a52177ea59a10a7f3fd27feece0bbe6
+
 
 
 def send_msg(msg,recipient):
